@@ -1,0 +1,18 @@
+--For spec related issues
+https://www.tutorialspoint.com/rspec/rspec_filtering.htm
+
+rspec --format progress employee_listing_spec.rb
+(debug)
+
+--For ruby conventions
+https://github.com/rubocop-hq/ruby-style-guide#naming
+
+--For all ruby gems
+https://rubygems.org/
+
+
+
+
+
+git remote add origin git@github.com:sathyatejadvs/project_view_tool.git
+git push -u origin master

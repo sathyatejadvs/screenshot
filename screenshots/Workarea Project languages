@@ -1,0 +1,6 @@
+---Testing rails application
+ ->Rails create a test directory when u create a rails application
+ ->The controllers directory helps to hold tests for CMV
+ ->Integration- to hold test for Interaction between controllers
+*->System test directory holds complete application test
+
